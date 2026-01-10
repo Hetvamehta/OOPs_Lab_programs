@@ -14,5 +14,6 @@ public class VowelOrConsonant {
         } else {
             System.out.println("Consonant");
         }
+        sc.close();
     }
 }

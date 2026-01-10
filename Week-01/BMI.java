@@ -16,5 +16,6 @@ public class BMI {
         double bmi = weightKg / (heightMeters * heightMeters);
 
         System.out.println("BMI: " + bmi);
+        sc.close();
     }
 }
