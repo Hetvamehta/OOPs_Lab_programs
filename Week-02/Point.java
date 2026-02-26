@@ -22,6 +22,7 @@ class Point {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hetva-25");
         Point p1 = new Point();
         p1.display();
 

@@ -19,6 +19,7 @@ public class Employee {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hetva-25");
         Employee emp = new Employee();
         emp.readEmployeeData();
         emp.displayEmployeeData();

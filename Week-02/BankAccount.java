@@ -32,6 +32,7 @@ class BankAccount {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hetva-25");
         BankAccount[] accounts = new BankAccount[5];
 
         for (int i = 0; i < accounts.length; i++) {

@@ -12,6 +12,7 @@ public class Time {
     }
 
     public void addTime(Time t1, Time t2) {
+        System.out.println("Hetva-25");
         minutes = t1.minutes + t2.minutes;
         hours = t1.hours + t2.hours + (minutes / 60);
         minutes = minutes % 60;

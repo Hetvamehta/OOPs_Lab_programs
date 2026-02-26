@@ -18,6 +18,7 @@ class BillGenerator {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hetva-25");
         BillGenerator bg = new BillGenerator();
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Enter Item Total: ");

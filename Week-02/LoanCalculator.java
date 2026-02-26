@@ -22,6 +22,7 @@ public class LoanCalculator {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hetva-25");
         Scanner scanner = new Scanner(System.in);
         LoanCalculator calc = new LoanCalculator();
 

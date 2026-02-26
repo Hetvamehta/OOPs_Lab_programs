@@ -21,6 +21,7 @@ public class University {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hetva-25");
         System.out.println("Main Method: Starting execution...");
         System.out.println("Welcome to " + University.universityName);
         

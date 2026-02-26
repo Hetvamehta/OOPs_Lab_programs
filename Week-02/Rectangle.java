@@ -19,6 +19,7 @@ public class Rectangle {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hetva-25");
         Rectangle rect1 = new Rectangle(4, 40);
         Rectangle rect2 = new Rectangle(3.5, 35.9);
 
