@@ -7,7 +7,7 @@ interface Exam {
 interface Classify {
     String getDivision(double average);
 }
-
+    
 class ExamPortal implements Exam, Classify {
 
     @Override
